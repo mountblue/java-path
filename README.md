@@ -1,4 +1,4 @@
-# Python Django Path
+# Java Path
 
 Sequence of topics (tentative):
 
